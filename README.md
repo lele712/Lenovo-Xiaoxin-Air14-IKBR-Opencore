@@ -37,13 +37,13 @@ Opencore说明
 
 1. i7-8550u为Kaby Lake平台
   
-2. DVMT修改（以下信息仅供参考，最好自己确认一下，别最后搞的点不亮喽）
+2. DVMT修改（以下信息仅供参考，最好自己确认一下，别最后搞的点不亮喽）  
  SaSetup
  区域（area）：0x2
  偏移（offset）：0xDF
  更改：01 to 02
  
-3. CFG LOCK（以下信息仅供参考）
+3. CFG LOCK（以下信息仅供参考）  
  CpuSetup
  区域（area）：0x3
  偏移（offset）：0x3C
@@ -53,7 +53,7 @@ Opencore说明
 -----------------------------------------------------------------------------------------------------
 参考内容
 
-1. hojiang23/XiaoxinAir14IKBR_hackintosh
+1. hojiang23/XiaoxinAir14IKBR_hackintosh   
 https://github.com/hojiang23/XiaoxinAir14IKBR_hackintosh/blob/master/README.md
 
 -----------------------------------------------------------------------------------------------------

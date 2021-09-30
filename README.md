@@ -53,7 +53,7 @@ Opencore说明
 -----------------------------------------------------------------------------------------------------
 参考内容
 
-1.《Dortania's OpenCore Install Guide》opencore安装指南，最好用
+1. hojiang23/XiaoxinAir14IKBR_hackintosh
 https://github.com/hojiang23/XiaoxinAir14IKBR_hackintosh/blob/master/README.md
 
 -----------------------------------------------------------------------------------------------------
